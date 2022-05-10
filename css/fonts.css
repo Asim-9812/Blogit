@@ -1,0 +1,44 @@
+
+/* font family gayathri*/
+@font-face {
+    font-family: Gayathri;
+    src: url('../fonts/Gayathri/Gayathri-Regular.ttf');
+}
+
+/* font family Anton*/
+@font-face {
+    font-family: Anton;
+    src: url('../fonts/Anton/Anton-Regular.ttf');
+}
+
+/* font family Lexend Deca*/
+@font-face {
+    font-family: Lexend_Deca;
+    src: url('../fonts/Lexend_Deca/LexendDeca-VariableFont_wght.ttf');
+}
+
+/* font family Abel */
+@font-face {
+    font-family: Abel;
+    src: url('../fonts/Abel/Abel-Regular.ttf');
+}
+
+/* font family Livvic */
+@font-face {
+    font-family: Livvic;
+    src: url('../fonts/Livvic/Livvic-Regular.ttf');
+}
+
+/* font family Lobster */
+@font-face {
+    font-family: Lobster;
+    src: url('../fonts/Lobster/Lobster-Regular.ttf');
+}
+
+/* font family Roboto */
+@font-face {
+    font-family: Roboto;
+    src: url('../fonts/Roboto_Condensed/RobotoCondensed-Regular.ttf');
+}
+
+
